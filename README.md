@@ -1,4 +1,4 @@
-Running the Script
+
 To run the script, open your Command Prompt with administrative privileges and use the following command format, replacing the interface_name with the actual name of your network interface:
 
 
